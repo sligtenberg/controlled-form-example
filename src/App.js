@@ -5,9 +5,8 @@ import ControlledForm from './ControlledForm';
 
 function App() {
   return (
-    <div>
-    </div>
-  );
+      <ControlledForm />
+    );
 }
 
 export default App;
